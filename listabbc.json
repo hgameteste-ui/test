@@ -1,54 +1,10 @@
 [
-  {
-    "name": "BBC Radio 1",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8"
-  },
-  {
-    "name": "BBC Radio 2",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8"
-  },
-  {
-    "name": "BBC Radio 3",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8"
-  },
-  {
-    "name": "BBC Radio 4",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8"
-  },
-  {
-    "name": "BBC Radio 5 Live",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8"
-  },
-  {
-    "name": "BBC Radio 6 Music",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8"
-  },
-  {
-    "name": "BBC Asian Network",
-    "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8"
-  },
-  {
-    "name": "BBC Radio London",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio=96000.norewind.m3u8"
-  },
-  {
-    "name": "BBC Radio Manchester",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_25317916/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio=96000.norewind.m3u8"
-  },
-  {
-    "name": "BBC Radio Merseyside",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_46699767/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio=96000.norewind.m3u8"
-  },
-  {
-    "name": "BBC Radio Newcastle",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_46887953/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio=96000.norewind.m3u8"
-  },
-  {
-    "name": "BBC Radio Norfolk",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_61510571/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio=96000.norewind.m3u8"
-  },
-  {
-    "name": "BBC Radio Northampton",
-    "url": "https://as-hls-ww-live.akamaized.net/pool_73827654/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio=96000.norewind.m3u8"
-  }
+  { "name": "xBBC Radio 1", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8" },
+  { "name": "xBBC Radio 2", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8" },
+  { "name": "xBBC Radio 3", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8" },
+  { "name": "xBBC Radio 4", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8" },
+  { "name": "xBBC Radio 5 Live", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8" },
+  { "name": "xBBC Radio 6 Music", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8" },
+  { "name": "xBBC Radio 1Xtra", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8" },
+  { "name": "xBBC Asian Network", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8" }
 ]

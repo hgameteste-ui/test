@@ -1,10 +1,12 @@
 [
-  { "name": "xBBC Radio 1", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8" },
-  { "name": "xBBC Radio 2", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8" },
-  { "name": "xBBC Radio 3", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8" },
-  { "name": "xBBC Radio 4", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8" },
-  { "name": "xBBC Radio 5 Live", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8" },
-  { "name": "xBBC Radio 6 Music", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8" },
-  { "name": "xBBC Radio 1Xtra", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8" },
-  { "name": "xBBC Asian Network", "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8" }
+  { "name": "Folk Alley", "url": "https://folkalley.com/stream/folk-alley/" },
+  { "name": "Folk Music Notebook", "url": "https://folkmusicnotebook.com/stream" },
+  { "name": "Folk Forward (SomaFM)", "url": "https://somafm.com/folkfwd/stream.pls" },
+  { "name": "American Roots Radio", "url": "https://www.americanrootsradio.com/stream" },
+  { "name": "Indie Folk (Jango)", "url": "https://www.jango.com/stations/400235337" },
+  { "name": "Acoustic Café", "url": "http://acafe.com/stream" },
+  { "name": "iHeartRadio – Indie Folk & Americana", "url": "https://www.iheart.com/playlist/indie-folk-americana-312064750-THG41A79m7vsxLfUPbeS9D/" },
+  { "name": "WUMB-FM (Boston)", "url": "http://www.wumb.org/stream" },
+  { "name": "Indie X FM", "url": "https://indiexfm.com/stream" }
 ]
+

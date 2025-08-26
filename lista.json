@@ -1,77 +1,28 @@
 [
-  [
   {
     "name": "BBC Radio 1",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=96000"
   },
   {
     "name": "BBC Radio 2",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=96000"
   },
   {
     "name": "BBC Radio 3",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=96000"
   },
   {
     "name": "BBC Radio 4",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm"
-    ]
-  },
-  {
-    "name": "BBC Radio 4 Extra",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourextra&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourextra"
-    ]
-  },
-  {
-    "name": "BBC 5 Live",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_5live&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_5live"
-    ]
-  },
-  {
-    "name": "BBC 5 Live Sports Extra",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_5livesportsextra&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_5livesportsextra"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=96000"
   },
   {
     "name": "BBC 6 Music",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_6music"
-    ]
-  },
-  {
-    "name": "BBC Asian Network",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_asian_network"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=96000"
   },
   {
     "name": "BBC World Service",
-    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_world_service&bitrate=96000",
-    "alternative": [
-      "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
-    ]
+    "url": "http://lsn.lv/bbcradio.m3u8?station=bbc_world_service&bitrate=96000"
   }
-]
-,
   {
     "name": "Radio Paradise (Rock Mix)",
     "url": "http://stream.radioparadise.com/rock-320"

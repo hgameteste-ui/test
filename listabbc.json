@@ -1,12 +1,7 @@
 [
-  { "name": "Folk Alley", "url": "https://folkalley.com/stream/folk-alley/" },
-  { "name": "Folk Music Notebook", "url": "https://folkmusicnotebook.com/stream" },
-  { "name": "Folk Forward (SomaFM)", "url": "https://somafm.com/folkfwd/stream.pls" },
-  { "name": "American Roots Radio", "url": "https://www.americanrootsradio.com/stream" },
-  { "name": "Indie Folk (Jango)", "url": "https://www.jango.com/stations/400235337" },
-  { "name": "Acoustic Café", "url": "http://acafe.com/stream" },
-  { "name": "iHeartRadio – Indie Folk & Americana", "url": "https://www.iheart.com/playlist/indie-folk-americana-312064750-THG41A79m7vsxLfUPbeS9D/" },
-  { "name": "WUMB-FM (Boston)", "url": "http://www.wumb.org/stream" },
-  { "name": "Indie X FM", "url": "https://indiexfm.com/stream" }
+  { "name": "Folk Alley", "url": "https://folkalley.com/streams/folkalley.m3u8" },
+  { "name": "SomaFM – Folk Forward", "url": "https://somafm.com/folkfwd/playlist.m3u8" },
+  { "name": "AccuRadio – Folk", "url": "https://www.accuradio.com/folk/stream.m3u8" },
+  { "name": "AllRadio – World Folk", "url": "https://www.allradio.net/category/3423/stream.m3u8" },
+  { "name": "Internet Radio – Folk", "url": "https://www.internet-radio.com/stations/folk/stream.m3u8" }
 ]
-

@@ -1,7 +1,22 @@
 [
-  { "name": "Folk Alley", "url": "https://folkalley.com/streams/folkalley.m3u8" },
-  { "name": "SomaFM – Folk Forward", "url": "https://somafm.com/folkfwd/playlist.m3u8" },
-  { "name": "AccuRadio – Folk", "url": "https://www.accuradio.com/folk/stream.m3u8" },
-  { "name": "AllRadio – World Folk", "url": "https://www.allradio.net/category/3423/stream.m3u8" },
-  { "name": "Internet Radio – Folk", "url": "https://www.internet-radio.com/stations/folk/stream.m3u8" }
+  {
+    "name": "89FM - A Rádio Rock",
+    "url": "https://www.radiorock.com.br/ao-vivo"
+  },
+  {
+    "name": "Rock FM Brasil",
+    "url": "https://radiorockfm.com.br/"
+  },
+  {
+    "name": "Radio Live Rock",
+    "url": "https://radioly.app/radio/br.liverock/"
+  },
+  {
+    "name": "Rádio Rock FM Unaí",
+    "url": "https://thenonstopradio.com/radio/radio_rock_fm_br"
+  },
+  {
+    "name": "Rádio Rock de Primeira",
+    "url": "https://fmstream.org/radio-rock-de-primeira-live"
+  }
 ]

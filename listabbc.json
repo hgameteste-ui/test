@@ -1,30 +1,154 @@
 [
   {
-    "name": "Rock en Español Radio",
-    "url": "https://streaming.rockenespanol.com:8000/rockenespanol.aac"
+    "name": "Groove Salad",
+    "url": "https://ice5.somafm.com/groovesalad-128-mp3"
   },
   {
-    "name": "Radio Rock Latino",
-    "url": "https://zeno.fm/radio/radio-rock-latino/"
+    "name": "Space Station Soma",
+    "url": "https://ice5.somafm.com/spacestation-128-mp3"
   },
   {
-    "name": "Patagonia Radio Rock Latino",
-    "url": "https://tunein.com/radio/Patagonia-Radio-Rock-Latino-s186614/"
+    "name": "Deep Space One",
+    "url": "https://ice5.somafm.com/deepspaceone-128-mp3"
   },
   {
-    "name": "Latin Rock Radio",
-    "url": "https://live365.com/listen/latin-rock-music-radio"
+    "name": "Drone Zone",
+    "url": "https://ice5.somafm.com/dronezone-128-mp3"
   },
   {
-    "name": "Radio Rock en Español México",
-    "url": "https://www.radio-en-vivo.mx/radio-rock-en-espanol-mexico"
+    "name": "Secret Agent",
+    "url": "https://ice5.somafm.com/secretagent-128-mp3"
   },
   {
-    "name": "Radio Doble Nueve",
-    "url": "https://www.radiodoblenueve.com/"
+    "name": "Indie Pop Rocks!",
+    "url": "https://ice5.somafm.com/indiepoprocks-128-mp3"
   },
   {
-    "name": "Om Radio",
-    "url": "https://www.omradio.ar/"
+    "name": "Cliqhop IDM",
+    "url": "https://ice5.somafm.com/cliqhop-128-mp3"
+  },
+  {
+    "name": "Beat Blender",
+    "url": "https://ice5.somafm.com/beatblender-128-mp3"
+  },
+  {
+    "name": "Boot Liquor",
+    "url": "https://ice5.somafm.com/bootliquor-128-mp3"
+  },
+  {
+    "name": "Xmas in Frisko",
+    "url": "https://ice5.somafm.com/xmasinfrisko-128-mp3"
+  },
+  {
+    "name": "Space Station Soma",
+    "url": "https://ice5.somafm.com/spacestation-128-mp3"
+  },
+  {
+    "name": "Illinois Street Lounge",
+    "url": "https://ice5.somafm.com/illinoisstreetlounge-128-mp3"
+  },
+  {
+    "name": "Doomed",
+    "url": "https://ice5.somafm.com/doomed-128-mp3"
+  },
+  {
+    "name": "Sonic Universe",
+    "url": "https://ice5.somafm.com/sonicuniverse-128-mp3"
+  },
+  {
+    "name": "Lush",
+    "url": "https://ice5.somafm.com/lush-128-mp3"
+  },
+  {
+    "name": "Digitalis",
+    "url": "https://ice5.somafm.com/digitalis-128-mp3"
+  },
+  {
+    "name": "Suburbs of Goa",
+    "url": "https://ice5.somafm.com/suburbsofgoa-128-mp3"
+  },
+  {
+    "name": "Underground 80s",
+    "url": "https://ice5.somafm.com/underground80s-128-mp3"
+  },
+  {
+    "name": "Christmas Lounge",
+    "url": "https://ice5.somafm.com/christmaslounge-128-mp3"
+  },
+  {
+    "name": "Mission Control",
+    "url": "https://ice5.somafm.com/missioncontrol-128-mp3"
+  },
+  {
+    "name": "PopTron",
+    "url": "https://ice5.somafm.com/poptron-128-mp3"
+  },
+  {
+    "name": "Covers",
+    "url": "https://ice5.somafm.com/covers-128-mp3"
+  },
+  {
+    "name": "Black Rock FM",
+    "url": "https://ice5.somafm.com/blackrockfm-128-mp3"
+  },
+  {
+    "name": "South by Soma",
+    "url": "https://ice5.somafm.com/southbysoma-128-mp3"
+  },
+  {
+    "name": "SF 10-33",
+    "url": "https://ice5.somafm.com/sf1033-128-mp3"
+  },
+  {
+    "name": "Dub Step Beyond",
+    "url": "https://ice5.somafm.com/dubstepbeyond-128-mp3"
+  },
+  {
+    "name": "Folk Forward",
+    "url": "https://ice5.somafm.com/folkforward-128-mp3"
+  },
+  {
+    "name": "Christmas Rocks!",
+    "url": "https://ice5.somafm.com/christmasrocks-128-mp3"
+  },
+  {
+    "name": "DEF CON Radio",
+    "url": "https://ice5.somafm.com/defconradio-128-mp3"
+  },
+  {
+    "name": "Iceland Airwaves",
+    "url": "https://ice5.somafm.com/icelandairwaves-128-mp3"
+  },
+  {
+    "name": "Deep Space One",
+    "url": "https://ice5.somafm.com/deepspaceone-128-mp3"
+  },
+  {
+    "name": "Seven Inch Soul",
+    "url": "https://ice5.somafm.com/seveninchsoul-128-mp3"
+  },
+  {
+    "name": "Left Coast 70s",
+    "url": "https://ice5.somafm.com/leftcoast70s-128-mp3"
+  },
+  {
+    "name": "Fluid",
+    "url": "https://ice5.somafm.com/fluid-128-mp3"
+  },
+  {
+    "name": "ThistleRadio",
+    "url": "https://ice5.somafm.com/thistleradio-128-mp3"
+  },
+  {
+    "name": "Metal Detector",
+    "url": "https://ice5.somafm.com/metaldetector-128-mp3"
+  },
+  {
+    "name": "Jolly Ol' Soul",
+    "url": "https://ice5.somafm.com/jollyolsoul-128-mp3"
+  },
+  {
+    "name": "SomaFM Live",
+    "url": "https://ice5.somafm.com/somafm-128-mp3"
   }
 ]

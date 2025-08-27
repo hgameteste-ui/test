@@ -1,26 +1,30 @@
 [
   {
-    "name": "89 FM - A Rádio Rock",
-    "url": "https://zeno.fm/radio/89_fm_a_r_dio_rock_ri3/"
+    "name": "Rock en Español Radio",
+    "url": "https://streaming.rockenespanol.com:8000/rockenespanol.aac"
   },
   {
-    "name": "Kiss FM",
-    "url": "https://kissfm.com.br/aovivo/"
+    "name": "Radio Rock Latino",
+    "url": "https://zeno.fm/radio/radio-rock-latino/"
   },
   {
-    "name": "Rádio Rock Brasil",
-    "url": "https://zeno.fm/radio/radio-rock-brasil/"
+    "name": "Patagonia Radio Rock Latino",
+    "url": "https://tunein.com/radio/Patagonia-Radio-Rock-Latino-s186614/"
   },
   {
-    "name": "Hunter.FM - Rock",
-    "url": "https://hunter.fm/rock/"
+    "name": "Latin Rock Radio",
+    "url": "https://live365.com/listen/latin-rock-music-radio"
   },
   {
-    "name": "Rádio Cidade FM",
-    "url": "https://radiocidade.fm/"
+    "name": "Radio Rock en Español México",
+    "url": "https://www.radio-en-vivo.mx/radio-rock-en-espanol-mexico"
   },
   {
-    "name": "Pop Rock Brasil",
-    "url": "https://zeno.fm/radio/poprockbrasil/"
+    "name": "Radio Doble Nueve",
+    "url": "https://www.radiodoblenueve.com/"
+  },
+  {
+    "name": "Om Radio",
+    "url": "https://www.omradio.ar/"
   }
 ]

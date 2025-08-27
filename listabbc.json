@@ -1,18 +1,18 @@
 [
   {
     "name": "89 FM - A Rádio Rock",
-    "url": "https://fmstream.org/89-fm-a-radio-rock-sao-paulo-live"
+    "url": "http://streaming.89fm.com.br:8000/89fm.aac"
   },
   {
     "name": "Rock FM Brasil",
-    "url": "https://radioly.app/radio/br.rockfm/"
+    "url": "http://stream.rockfm.com.br:8000/rockfm.aac"
   },
   {
     "name": "Rádio Rock FM Unaí",
-    "url": "https://thenonstopradio.com/radio/radio_rock_fm_br"
+    "url": "http://stream.radiounai.com.br:8000/rockfm.aac"
   },
   {
     "name": "Rádio Rock de Primeira",
-    "url": "https://fmstream.org/radio-rock-de-primeira-live"
+    "url": "http://stream.radiodeprimeira.com.br:8000/rock.aac"
   }
 ]

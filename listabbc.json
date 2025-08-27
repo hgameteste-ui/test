@@ -1,18 +1,26 @@
 [
   {
-    "name": "dd89 FM - A Rádio Rock",
-    "url": "http://streaming.89fm.com.br:8000/89fm.aac"
+    "name": "f89 FM - A Rádio Rock",
+    "url": "https://streaming.89fm.com.br:8000/89fm.aac"
   },
   {
-    "name": "Rock FM Brasil",
-    "url": "http://stream.rockfm.com.br:8000/rockfm.aac"
+    "name": "fKiss FM",
+    "url": "https://kissfm.com.br/"
   },
   {
-    "name": "Rádio Rock FM Unaí",
-    "url": "http://stream.radiounai.com.br:8000/rockfm.aac"
+    "name": "Rádio Rock Brasil",
+    "url": "https://zeno.fm/radio/rockbrasil/"
   },
   {
-    "name": "Rádio Rock de Primeira",
-    "url": "http://stream.radiodeprimeira.com.br:8000/rock.aac"
+    "name": "Hunter.FM - Rock",
+    "url": "https://hunter.fm/rock/"
+  },
+  {
+    "name": "Rádio Cidade FM",
+    "url": "https://radiocidade.fm/"
+  },
+  {
+    "name": "Pop Rock Brasil",
+    "url": "https://zeno.fm/radio/poprockbrasil/"
   }
 ]

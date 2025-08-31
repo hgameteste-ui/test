@@ -1,0 +1,18 @@
+[
+  {
+    "id": "m80-radio-pt",
+    "nome": "M80",
+    "descricao": "Música dos anos 80, 90 e 00's",
+    "imagem_url": "https://static-media.m80.pt/pt-pt/assets/images/logo_onair_square.png",
+    "url": "https://stream.m80.pt/m80",
+    "generos": ["Pop", "Rock", "Anos 80"]
+  },
+  {
+    "id": "mega-hits-pt",
+    "nome": "Mega Hits",
+    "descricao": "Ouve a Mega!",
+    "imagem_url": "https://stream.sapo.pt/mega-hits/mega-hits.png",
+    "url": "https://cdn.mcr.sapo.pt/mega-hits",
+    "generos": ["Pop", "Top 40", "Dance"]
+  }
+]

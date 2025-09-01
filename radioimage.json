@@ -60,188 +60,53 @@
     "image": "https://somafm.com/img3/poptron-400.png"
   },
   {
-    "name": "WNYU 89.1 FM",
-    "url": "https://wnyu.org/stream",
-    "image": "https://wnyu.org/wp-content/uploads/2019/09/wnyu-logo.png"
+    "name": "Radio Caroline",
+    "url": "https://radiocaroline.co.uk/stream.mp3",
+    "image": "https://fmstream.org/images/radiocaroline.jpg"
   },
   {
-    "name": "WPTS-FM",
-    "url": "https://wptsradio.org/listen",
-    "image": "https://wptsradio.org/wp-content/uploads/2020/09/wpts-logo.png"
+    "name": "BBC World Service",
+    "url": "https://bbc.co.uk/worldservice.mp3",
+    "image": "https://fmstream.org/images/bbcworldservice.jpg"
   },
   {
-    "name": "WLUW-FM",
-    "url": "https://wluw.org/listen",
-    "image": "https://wluw.org/wp-content/uploads/2020/09/wluw-logo.png"
+    "name": "SoftRockRadio",
+    "url": "https://www.softrockradio.net/stream.mp3",
+    "image": "https://www.softrockradio.net/logo.jpg"
   },
   {
-    "name": "WRHU 88.7 FM",
-    "url": "https://wrhu.org/listen",
-    "image": "https://wrhu.org/wp-content/uploads/2020/09/wrhu-logo.png"
+    "name": "181.fm Rock",
+    "url": "https://stream.181.fm/rock.mp3",
+    "image": "https://www.181.fm/logo.jpg"
   },
   {
-    "name": "KUCR 88.3 FM",
-    "url": "https://kucr.org/listen",
-    "image": "https://kucr.org/wp-content/uploads/2020/09/kucr-logo.png"
+    "name": "Radio Calico",
+    "url": "https://www.radio-calico.com/stream.mp3",
+    "image": "https://www.radio-calico.com/logo.jpg"
   },
   {
-    "name": "KALX 90.7 FM",
-    "url": "https://kalx.berkeley.edu/listen",
-    "image": "https://kalx.berkeley.edu/wp-content/uploads/2020/09/kalx-logo.png"
+    "name": "KTUH",
+    "url": "https://www.ktuh.org/stream.mp3",
+    "image": "https://www.ktuh.org/logo.jpg"
   },
   {
-    "name": "KVRX 91.7 FM",
-    "url": "https://kvrx.org/listen",
-    "image": "https://kvrx.org/wp-content/uploads/2020/09/kvrx-logo.png"
+    "name": "AccuRadio Rock",
+    "url": "https://www.accuradio.com/rock/stream.mp3",
+    "image": "https://www.accuradio.com/logo.jpg"
   },
   {
-    "name": "WSUM 91.7 FM",
-    "url": "https://wsum.org/listen",
-    "image": "https://wsum.org/wp-content/uploads/2020/09/wsum-logo.png"
+    "name": "iHeartRadio Classic Rock",
+    "url": "https://www.iheart.com/stream/classic-rock/stream.mp3",
+    "image": "https://www.iheart.com/logo.jpg"
   },
   {
-    "name": "WXTJ 100.1 FM",
-    "url": "https://wxtj.fm/listen",
-    "image": "https://wxtj.fm/wp-content/uploads/2020/09/wxtj-logo.png"
+    "name": "Live365 Classic Rock",
+    "url": "https://live365.com/listen/classic-rock/stream.mp3",
+    "image": "https://www.live365.com/logo.jpg"
   },
   {
-    "name": "WSBF 88.1 FM",
-    "url": "https://wsbf.net/listen",
-    "image": "https://wsbf.net/wp-content/uploads/2020/09/wsbf-logo.png"
-  },
-  {
-    "name": "WZLY 91.5 FM",
-    "url": "https://wzly.org/listen",
-    "image": "https://wzly.org/wp-content/uploads/2020/09/wzly-logo.png"
-  },
-  {
-    "name": "KXLU 88.9 FM",
-    "url": "https://kxlu.com/listen",
-    "image": "https://kxlu.com/wp-content/uploads/2020/09/kxlu-logo.png"
-  },
-  {
-    "name": "KUPS 90.1 FM",
-    "url": "https://kups.fm/listen",
-    "image": "https://kups.fm/wp-content/uploads/2020/09/kups-logo.png"
-  },
-  {
-    "name": "WZBC 90.3 FM",
-    "url": "https://wzbc.org/listen",
-    "image": "https://wzbc.org/wp-content/uploads/2020/09/wzbc-logo.png"
-  },
-  {
-    "name": "WPRB 103.3 FM",
-    "url": "https://wprb.com/listen",
-    "image": "https://wprb.com/wp-content/uploads/2020/09/wprb-logo.png"
-  },
-  {
-    "name": "WRBB 104.9 FM",
-    "url": "https://wrbb.org/listen",
-    "image": "https://wrbb.org/wp-content/uploads/2020/09/wrbb-logo.png"
-  },
-  {
-    "name": "WMBR 88.1 FM",
-    "url": "https://wmbr.org/listen",
-    "image": "https://wmbr.org/wp-content/uploads/2020/09/wmbr-logo.png"
-  },
-  {
-    "name": "WJUL 91.5 FM",
-    "url": "https://wjul.org/listen",
-    "image": "https://wjul.org/wp-content/uploads/2020/09/wjul-logo.png"
-  },
-  {
-    "name": "KJHK 90.7 FM",
-    "url": "https://k.jhk.org/listen",
-    "image": "https://k.jhk.org/wp-content/uploads/2020/09/kjhk-logo.png"
-  },
-  {
-    "name": "KTXT 88.1 FM",
-    "url": "https://ktxtfm.org/listen",
-    "image": "https://ktxtfm.org/wp-content/uploads/2020/09/ktxt-logo.png"
-  },
-  {
-    "name": "WRFL 88.1 FM",
-    "url": "https://wrfl.fm/listen",
-    "image": "https://wrfl.fm/wp-content/uploads/2020/09/wrfl-logo.png"
-  },
-  {
-    "name": "WRSU 88.7 FM",
-    "url": "https://wrsu.org/listen",
-    "image": "https://wrsu.org/wp-content/uploads/2020/09/wrsu-logo.png"
-  },
-  {
-    "name": "WQAC 90.1 FM",
-    "url": "https://wqac.org/listen",
-    "image": "https://wqac.org/wp-content/uploads/2020/09/wqac-logo.png"
-  },
-  {
-    "name": "WZRD 88.3 FM",
-    "url": "https://wzrdchicago.org/listen",
-    "image": "https://wzrdchicago.org/wp-content/uploads/2020/09/wzrd-logo.png"
-  },
-  {
-    "name": "WJHU 88.1 FM",
-    "url": "https://wjhu.org/listen",
-    "image": "https://wjhu.org/wp-content/uploads/2020/09/wjhu-logo.png"
-  },
-  {
-    "name": "WESU 88.1 FM",
-    "url": "https://wesufm.org/listen",
-    "image": "https://wesufm.org/wp-content/uploads/2020/09/wesu-logo.png"
-  },
-  {
-    "name": "WQFS 90.9 FM",
-    "url": "https://wqfs.org/listen",
-    "image": "https://wqfs.org/wp-content/uploads/2020/09/wqfs-logo.png"
-  },
-  {
-    "name": "WJBC 91.9 FM",
-    "url": "https://wjbc.org/listen",
-    "image": "https://wjbc.org/wp-content/uploads/2020/09/wjbc-logo.png"
-  },
-  {
-    "name": "KXUA 88.3 FM",
-    "url": "https://kxua.uark.edu/listen",
-    "image": "https://kxua.uark.edu/wp-content/uploads/2020/09/kxua-logo.png"
-  },
-  {
-    "name": "KALX 90.7 FM",
-    "url": "https://kalx.berkeley.edu/listen",
-    "image": "https://kalx.berkeley.edu/wp-content/uploads/2020/09/kalx-logo.png"
-  },
-  {
-    "name": "KVRX 91.7 FM",
-    "url": "https://kvrx.org/listen",
-    "image": "https://kvrx.org/wp-content/uploads/2020/09/kvrx-logo.png"
-  },
-  {
-    "name": "WSUM 91.7 FM",
-    "url": "https://wsum.org/listen",
-    "image": "https://wsum.org/wp-content/uploads/2020/09/wsum-logo.png"
-  },
-  {
-    "name": "WXTJ 100.1 FM",
-    "url": "https://wxtj.fm/listen",
-    "image": "https://wxtj.fm/wp-content/uploads/2020/09/wxtj-logo.png"
-  },
-  {
-    "name": "WSBF 88.1 FM",
-    "url": "https://wsbf.net/listen",
-    "image": "https://wsbf.net/wp-content/uploads/2020/09/wsbf-logo.png"
-  },
-  {
-    "name": "WZLY 91.5 FM",
-    "url": "https://wzly.org/listen",
-    "image": "https://wzly.org/wp-content/uploads/2020/09/wzly-logo.png"
-  },
-  {
-    "name": "KXLU 88.9 FM",
-    "url": "https://kxlu.com/listen",
-    "image": "https://kxlu.com/wp-content/uploads/2020/09/kxlu-logo.png"
-  },
-  {
-    "name": "KUPS 90.1 FM",
-    "url": "https://kups.fm/listen",
-    "image": "https://kups.fm/wp-content/uploads/2020/09/kups-logo.png"
+    "name": "Radio Paradise",
+    "url": "https://www.radioparadise.com/stream.mp3",
+    "image": "https://www.radioparadise.com/logo.jpg"
   }
 ]

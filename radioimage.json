@@ -25,8 +25,38 @@
     "image": "https://somafm.com/img3/gsclassic400.jpg"
   },
   {
-    "name": "Lush",
-    "url": "https://ice5.somafm.com/lush-128-mp3",
-    "image": "https://somafm.com/img3/lush-400.jpg"
+    "name": "suburbsofgoa",
+    "url": "hhttps://ice5.somafm.com/suburbsofgoa-128-mp3",
+    "image": "https://somafm.com/img3/suburbsofgoa-400.png"
+  },
+  {
+    "name": "indiepop",
+    "url": "https://ice5.somafm.com/indiepop-128-mp3",
+    "image": "https://somafm.com/img3/indiepop-400.png"
+  },
+  {
+    "name": "defcon",
+    "url": "https://ice5.somafm.com/defcon-128-mp3",
+    "image": "https://somafm.com/img3/defcon400.png"
+  },
+  {
+    "name": "insound",
+    "url": "https://ice5.somafm.com/insound-128-mp3",
+    "image": "https://somafm.com/logos/400/insound-400.jpg"
+  },
+  {
+    "name": "brfm",
+    "url": "https://ice5.somafm.com/brfm-128-mp3",
+    "image": "https://somafm.com/img3/brfm-400.png"
+  },
+  {
+    "name": "covers",
+    "url": "https://ice5.somafm.com/covers-128-mp3",
+    "image": "https://somafm.com/img3/covers-400.png"
+  },
+  {
+    "name": "poptron",
+    "url": "https://ice5.somafm.com/poptron-128-mp3",
+    "image": "https://somafm.com/img3/poptron-400.png"
   }
 ]

@@ -22,11 +22,11 @@
   {
     "name": "Groove Salad Classic",
     "url": "https://ice5.somafm.com/gsclassic-128-mp3",
-    "image": ""   // imagem não disponível nos banners oficiais
+    "image": "https://somafm.com/img3/gsclassic400.jpg"
   },
   {
     "name": "Lush",
     "url": "https://ice5.somafm.com/lush-128-mp3",
-    "image": ""   // sem banner oficial
+    "image": "https://somafm.com/img3/lush-400.jpg"
   }
 ]

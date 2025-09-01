@@ -2,11 +2,51 @@
   {
     "name": "Groove Salad",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3",
-    "image": "https://somafm.com/img3/gsclassic400.jpg"
+    "image": "https://somafm.com/img/GrooveSaladBox.jpg"
+  },
+  {
+    "name": "Drone Zone",
+    "url": "https://ice5.somafm.com/dronezone-128-mp3",
+    "image": "https://somafm.com/img/DroneZoneBox.jpg"
   },
   {
     "name": "Secret Agent",
     "url": "https://ice5.somafm.com/secretagent-128-mp3",
-    "image": "https://somafm.com/img3/secretagent-400.png"
+    "image": "https://somafm.com/img/SecretAgentBox.jpg"
+  },
+  {
+    "name": "Indie Pop Rocks!",
+    "url": "https://ice5.somafm.com/indiepop-128-mp3",
+    "image": "https://somafm.com/img/indychick.jpg"
+  },
+  {
+    "name": "Sonic Universe",
+    "url": "https://ice5.somafm.com/sonicuniverse-128-mp3",
+    "image": "https://somafm.com/img/sonicuniverse120.jpg"
+  },
+  {
+    "name": "The Trip",
+    "url": "https://ice5.somafm.com/thetrip-128-mp3",
+    "image": "https://somafm.com/img/thetrip120.jpg"
+  },
+  {
+    "name": "cliqhop",
+    "url": "https://ice5.somafm.com/cliqhop-128-mp3",
+    "image": "https://somafm.com/img/cliqhop.gif"
+  },
+  {
+    "name": "Space Station Soma",
+    "url": "https://ice5.somafm.com/spacestation-128-mp3",
+    "image": ""   // imagem não disponível nos banners oficiais
+  },
+  {
+    "name": "Groove Salad Classic",
+    "url": "https://ice5.somafm.com/gsclassic-128-mp3",
+    "image": ""   // imagem não disponível nos banners oficiais
+  },
+  {
+    "name": "Lush",
+    "url": "https://ice5.somafm.com/lush-128-mp3",
+    "image": ""   // sem banner oficial
   }
 ]

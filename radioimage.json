@@ -1,5 +1,10 @@
 [
   {
+    "name": "89 rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac",
+    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png"
+  },
+  {
     "name": "Groove Salad",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3",
     "image": "https://somafm.com/img/GrooveSaladBox.jpg"

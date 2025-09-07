@@ -24,6 +24,11 @@
     "url": "https://server2.webradios.com.br:9100/9100",
     "image": "https://jornal.usp.br/radiohead2.jpg"
   },
+ {
+    "name": "🇸🇪Pirate Rock",
+    "url": "https://stream.piraterock.se:8100/webradio",
+    "image": "https://piraterock.se/wp-content/uploads/2025/02/piraterocklogov4.svg"
+  },
   {
     "name": "Groove Salad",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3",

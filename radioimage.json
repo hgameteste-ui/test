@@ -9,7 +9,12 @@
     "url": "https://shoutcast.brownrice.com:8000/stream",
     "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png"
   },
-  
+ {
+    "name": " 🇵🇹Universidade FM",
+    "url": "https://centova.radios.pt/proxy/405?mp=/stream",
+    "image": "https://www.universidade.fm/wp-content/uploads/2018/10/Logo_Universidade_FM.png"
+  },
+
   {
     "name": "Groove Salad",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3",

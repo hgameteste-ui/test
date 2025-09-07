@@ -1,9 +1,15 @@
 [
   {
-    "name": "89 rock",
+    "name": "89FM - A Rádio Rock",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3",
     "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png"
   },
+  {
+    "name": "🇨🇦102.1 The Edge",
+    "url": "https://geocom.leanstream.co/CFNYFM-MP3",
+    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png"
+  },
+  
   {
     "name": "Groove Salad",
     "url": "https://ice5.somafm.com/groovesalad-128-mp3",

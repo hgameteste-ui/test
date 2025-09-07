@@ -16,7 +16,7 @@
     "city": "Dallas"
   },
   {
-    "name": "🇵🇹Universidade FM",
+    "name": "Universidade FM",
     "url": "https://centova.radios.pt/proxy/405?mp=/stream",
     "image": "https://www.universidade.fm/wp-content/uploads/2018/10/Logo_Universidade_FM.png",
     "genre": "College / Eclectic",
@@ -24,7 +24,7 @@
     "city": "Vila Real"
   },
   {
-    "name": "College Underground Radio",
+    "name": "College Underground",
     "url": "https://streamer.radio.co/sbc698b4e9/listen",
     "image": "https://collegeundergroundradio.com/mt-content/uploads/2022/12/logo9.png",
     "genre": "Alternative",
@@ -32,7 +32,7 @@
     "city": "Atlanta"
   },
   {
-    "name": "🇧🇷Rádio USP",
+    "name": "Rádio USP",
     "url": "https://server2.webradios.com.br:9100/9100",
     "image": "https://jornal.usp.br/radiohead2.jpg",
     "genre": "College / Eclectic",
@@ -40,7 +40,7 @@
     "city": "São Paulo"
   },
   {
-    "name": "🇸🇪Pirate Rock",
+    "name": "Pirate Rock",
     "url": "https://stream.piraterock.se:8100/webradio",
     "image": "https://piraterock.se/wp-content/uploads/2025/02/piraterocklogov4.svg",
     "genre": "Rock",

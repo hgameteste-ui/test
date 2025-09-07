@@ -1,0 +1,226 @@
+[
+  {
+    "name": "89FM - A Rádio Rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3",
+    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
+    "genre": "Rock",
+    "country": "BR",
+    "city": "São Paulo"
+  },
+  {
+    "name": "102.1 The Edge",
+    "url": "https://shoutcast.brownrice.com:8000/stream",
+    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
+    "genre": "Alternative",
+    "country": "US",
+    "city": "Dallas"
+  },
+  {
+    "name": "🇵🇹Universidade FM",
+    "url": "https://centova.radios.pt/proxy/405?mp=/stream",
+    "image": "https://www.universidade.fm/wp-content/uploads/2018/10/Logo_Universidade_FM.png",
+    "genre": "College / Eclectic",
+    "country": "PT",
+    "city": "Vila Real"
+  },
+  {
+    "name": "College Underground Radio",
+    "url": "https://streamer.radio.co/sbc698b4e9/listen",
+    "image": "https://collegeundergroundradio.com/mt-content/uploads/2022/12/logo9.png",
+    "genre": "Alternative",
+    "country": "US",
+    "city": "Atlanta"
+  },
+  {
+    "name": "🇧🇷Rádio USP",
+    "url": "https://server2.webradios.com.br:9100/9100",
+    "image": "https://jornal.usp.br/radiohead2.jpg",
+    "genre": "College / Eclectic",
+    "country": "BR",
+    "city": "São Paulo"
+  },
+  {
+    "name": "🇸🇪Pirate Rock",
+    "url": "https://stream.piraterock.se:8100/webradio",
+    "image": "https://piraterock.se/wp-content/uploads/2025/02/piraterocklogov4.svg",
+    "genre": "Rock",
+    "country": "SE",
+    "city": "Göteborg"
+  },
+  {
+    "name": "Groove Salad",
+    "url": "https://ice5.somafm.com/groovesalad-128-mp3",
+    "image": "https://somafm.com/img/GrooveSaladBox.jpg",
+    "genre": "Chillout / Ambient",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "Secret Agent",
+    "url": "https://ice5.somafm.com/secretagent-128-mp3",
+    "image": "https://somafm.com/img/SecretAgentBox.jpg",
+    "genre": "Chillout / Ambient",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "Indie Pop Rocks!",
+    "url": "https://ice5.somafm.com/indiepop-128-mp3",
+    "image": "https://somafm.com/img/indychick.jpg",
+    "genre": "Indie",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "The Trip",
+    "url": "https://ice5.somafm.com/thetrip-128-mp3",
+    "image": "https://somafm.com/img/thetrip120.jpg",
+    "genre": "Rock",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "Groove Salad Classic",
+    "url": "https://ice5.somafm.com/gsclassic-128-mp3",
+    "image": "https://somafm.com/img3/gsclassic400.jpg",
+    "genre": "Chillout / Ambient",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "Suburbs Of Goa",
+    "url": "https://ice5.somafm.com/suburbsofgoa-128-mp3",
+    "image": "https://somafm.com/img3/suburbsofgoa-400.png",
+    "genre": "World",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "indiepop",
+    "url": "https://ice5.somafm.com/indiepop-128-mp3",
+    "image": "https://somafm.com/img3/indiepop-400.png",
+    "genre": "Indie",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "defcon",
+    "url": "https://ice5.somafm.com/defcon-128-mp3",
+    "image": "https://somafm.com/img3/defcon400.png",
+    "genre": "Electronic",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "insound",
+    "url": "https://ice5.somafm.com/insound-128-mp3",
+    "image": "https://somafm.com/logos/400/insound-400.jpg",
+    "genre": "Electronic",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "brfm",
+    "url": "https://ice5.somafm.com/brfm-128-mp3",
+    "image": "https://somafm.com/img3/brfm-400.png",
+    "genre": "Alternative",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "covers",
+    "url": "https://ice5.somafm.com/covers-128-mp3",
+    "image": "https://somafm.com/img3/covers-400.png",
+    "genre": "Alternative",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "poptron",
+    "url": "https://ice5.somafm.com/poptron-128-mp3",
+    "image": "https://somafm.com/img3/poptron-400.png",
+    "genre": "Electronic",
+    "country": "US",
+    "city": "San Francisco"
+  },
+  {
+    "name": "Radio Caroline",
+    "url": "https://5.restream.one/1588_1",
+    "image": "https://duckduckgo.com/i/12e732b3ff1b9237.png",
+    "genre": "Classic Rock",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "name": "BBC World Service",
+    "url": "https://bbc.co.uk/worldservice.mp3",
+    "image": "https://fmstream.org/images/bbcworldservice.jpg",
+    "genre": "News / Talk",
+    "country": "UK",
+    "city": "London"
+  },
+  {
+    "name": "SoftRockRadio",
+    "url": "https://www.softrockradio.net/stream.mp3",
+    "image": "https://www.softrockradio.net/logo.jpg",
+    "genre": "Classic Rock",
+    "country": "US",
+    "city": "New York"
+  },
+  {
+    "name": "181.fm Rock",
+    "url": "https://stream.181.fm/rock.mp3",
+    "image": "https://www.181.fm/logo.jpg",
+    "genre": "Rock",
+    "country": "US",
+    "city": "Waynesboro"
+  },
+  {
+    "name": "Radio Calico",
+    "url": "https://www.radio-calico.com/stream.mp3",
+    "image": "https://www.radio-calico.com/logo.jpg",
+    "genre": "College / Eclectic",
+    "country": "FR",
+    "city": "Paris"
+  },
+  {
+    "name": "KTUH",
+    "url": "https://www.ktuh.org/stream.mp3",
+    "image": "https://www.ktuh.org/logo.jpg",
+    "genre": "College / Eclectic",
+    "country": "US",
+    "city": "Honolulu"
+  },
+  {
+    "name": "AccuRadio Rock",
+    "url": "https://www.accuradio.com/rock/stream.mp3",
+    "image": "https://www.accuradio.com/logo.jpg",
+    "genre": "Rock",
+    "country": "US",
+    "city": "Chicago"
+  },
+  {
+    "name": "iHeartRadio Classic Rock",
+    "url": "https://www.iheart.com/stream/classic-rock/stream.mp3",
+    "image": "https://www.iheart.com/logo.jpg",
+    "genre": "Classic Rock",
+    "country": "US",
+    "city": "San Antonio"
+  },
+  {
+    "name": "Live365 Classic Rock",
+    "url": "https://live365.com/listen/classic-rock/stream.mp3",
+    "image": "https://www.live365.com/logo.jpg",
+    "genre": "Classic Rock",
+    "country": "US",
+    "city": "Washington D.C."
+  },
+  {
+    "name": "Radio Paradise",
+    "url": "https://www.radioparadise.com/stream.mp3",
+    "image": "https://www.radioparadise.com/logo.jpg",
+    "genre": "College / Eclectic",
+    "country": "US",
+    "city": "Cambria"
+  }
+]

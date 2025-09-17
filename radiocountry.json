@@ -15,6 +15,22 @@
     "country": "NZ",
     "city": "Auckland"
   },
+{
+    "name": "COGUMELO",
+    "url": "  http://stm40.conectastm.com:6698",
+    "image": "https://img.radios.com.br/radio/lg/radio68239_1732518333.jpg",
+    "genre": "Rock",
+    "country": "BR",
+    "city": "São Tomé das Letras/MG"
+  },
+  {
+    "name": "BBC World Service",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one.mpd",
+    "image": "https://freeonlineradio.net/wp-content/uploads/2018/03/BBC-Radio-1-uk-1024x448.jpg",
+    "genre": "Rock",
+    "country": "UK",
+    "city": "London"
+  },  
   {
     "name": "102.1 The Edge",
     "url": "https://shoutcast.brownrice.com:8000/stream",
@@ -158,77 +174,5 @@
     "genre": "Classic Rock",
     "country": "UK",
     "city": "London"
-  },
-  {
-    "name": "BBC World Service",
-    "url": "https://bbc.co.uk/worldservice.mp3",
-    "image": "https://fmstream.org/images/bbcworldservice.jpg",
-    "genre": "News / Talk",
-    "country": "UK",
-    "city": "London"
-  },
-  {
-    "name": "SoftRockRadio",
-    "url": "https://www.softrockradio.net/stream.mp3",
-    "image": "https://www.softrockradio.net/logo.jpg",
-    "genre": "Classic Rock",
-    "country": "US",
-    "city": "New York"
-  },
-  {
-    "name": "181.fm Rock",
-    "url": "https://stream.181.fm/rock.mp3",
-    "image": "https://www.181.fm/logo.jpg",
-    "genre": "Rock",
-    "country": "US",
-    "city": "Waynesboro"
-  },
-  {
-    "name": "Radio Calico",
-    "url": "https://www.radio-calico.com/stream.mp3",
-    "image": "https://www.radio-calico.com/logo.jpg",
-    "genre": "College / Eclectic",
-    "country": "FR",
-    "city": "Paris"
-  },
-  {
-    "name": "KTUH",
-    "url": "https://www.ktuh.org/stream.mp3",
-    "image": "https://www.ktuh.org/logo.jpg",
-    "genre": "College / Eclectic",
-    "country": "US",
-    "city": "Honolulu"
-  },
-  {
-    "name": "AccuRadio Rock",
-    "url": "https://www.accuradio.com/rock/stream.mp3",
-    "image": "https://www.accuradio.com/logo.jpg",
-    "genre": "Rock",
-    "country": "US",
-    "city": "Chicago"
-  },
-  {
-    "name": "iHeartRadio Classic Rock",
-    "url": "https://www.iheart.com/stream/classic-rock/stream.mp3",
-    "image": "https://www.iheart.com/logo.jpg",
-    "genre": "Classic Rock",
-    "country": "US",
-    "city": "San Antonio"
-  },
-  {
-    "name": "Live365 Classic Rock",
-    "url": "https://live365.com/listen/classic-rock/stream.mp3",
-    "image": "https://www.live365.com/logo.jpg",
-    "genre": "Classic Rock",
-    "country": "US",
-    "city": "Washington D.C."
-  },
-  {
-    "name": "Radio Paradise",
-    "url": "https://www.radioparadise.com/stream.mp3",
-    "image": "https://www.radioparadise.com/logo.jpg",
-    "genre": "College / Eclectic",
-    "country": "US",
-    "city": "Cambria"
   }
 ]

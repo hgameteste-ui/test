@@ -46,6 +46,22 @@
     "genre": "Rock",
     "country": "BR",
     "city": "Sampa"
+  },
+  {
+    "name": "UFSM > Rádios FM",
+    "url": "https://stream1.svrdedicado.org/cp/widgets/player/single/?p=8190#",
+    "image": "https://open.ieee.org/wp-content/uploads/Universidade-Federal-de-Santa-Maria-UFSM-560x420.png",
+    "genre": "Universidade",
+    "country": "BR",
+    "city": "Santa Maria/RS"
+  },
+  {
+    "name": "UFSM > Rádios AM",
+    "url": "https://stream3.svrdedicado.org/cp/widgets/player/single/?p=8034#,
+    "image": "https://open.ieee.org/wp-content/uploads/Universidade-Federal-de-Santa-Maria-UFSM-560x420.png",
+    "genre": "Universidade",
+    "country": "BR",
+    "city": "Santa Maria/RS"
   },  
   {
     "name": "102.1 The Edge",

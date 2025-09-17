@@ -17,15 +17,23 @@
   },
 {
     "name": "COGUMELO",
-    "url": "  http://stm40.conectastm.com:6698",
+    "url": "https://stm4.srvif.com:8600/;",
     "image": "https://img.radios.com.br/radio/lg/radio68239_1732518333.jpg",
     "genre": "Rock",
     "country": "BR",
     "city": "São Tomé das Letras/MG"
   },
   {
-    "name": "BBC World Service",
+    "name": "103 Radio",
     "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one.mpd",
+    "image": "https://cdn.instant.audio/images/logos/radios-co-cr/cientotres.png",
+    "genre": "Latin",
+    "country": "CR",
+    "city": "San Jose/Costa Rica"
+  },  
+  {
+    "name": "BBC 1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
     "image": "https://freeonlineradio.net/wp-content/uploads/2018/03/BBC-Radio-1-uk-1024x448.jpg",
     "genre": "Rock",
     "country": "UK",

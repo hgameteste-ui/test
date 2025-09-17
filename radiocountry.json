@@ -25,7 +25,7 @@
   },
   {
     "name": "103 Radio",
-    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one.mpd",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
     "image": "https://cdn.instant.audio/images/logos/radios-co-cr/cientotres.png",
     "genre": "Latin",
     "country": "CR",
@@ -33,7 +33,7 @@
   },  
   {
     "name": "BBC 1",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_radio_one.mpd",
     "image": "https://freeonlineradio.net/wp-content/uploads/2018/03/BBC-Radio-1-uk-1024x448.jpg",
     "genre": "Rock",
     "country": "UK",
@@ -46,6 +46,14 @@
     "genre": "Alternative",
     "country": "US",
     "city": "Dallas"
+  },
+  {
+    "name": "RTP Antena 3",
+    "url": "https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena3_positivo_horiz_RGB.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/102.1_The_Edge.png?20170426164314",
+    "genre": "Alternative",
+    "country": "PT",
+    "city": "Lisboa"
   },
   {
     "name": "Universidade FM",

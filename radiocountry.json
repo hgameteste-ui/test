@@ -2,7 +2,7 @@
   {
     "name": "89FM - A Rádio Rock",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM.mp3",
-    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/R%C3%A1dio_Rock_logo.svg",
     "genre": "Rock",
     "country": "BR",
     "city": "São Paulo"
@@ -10,7 +10,7 @@
   {
     "name": "102.1 The Edge",
     "url": "https://shoutcast.brownrice.com:8000/stream",
-    "image": "https://www.radiorock.com.br/storage/seo/logo_89fm.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/102.1_The_Edge.png?20170426164314",
     "genre": "Alternative",
     "country": "US",
     "city": "Dallas"

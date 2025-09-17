@@ -40,6 +40,14 @@
     "city": "London"
   },  
   {
+    "name": "Mutante",
+    "url": "http://streaming12.hstbr.net:8190/autodj",
+    "image": "https://mutanteradio.com/imagens/1ad189a4b62b8d6f335e4e8872f89841.png",
+    "genre": "Rock",
+    "country": "BR",
+    "city": "Sampa"
+  },  
+  {
     "name": "102.1 The Edge",
     "url": "https://shoutcast.brownrice.com:8000/stream",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/102.1_The_Edge.png?20170426164314",

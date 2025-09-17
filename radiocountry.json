@@ -7,6 +7,14 @@
     "country": "BR",
     "city": "São Paulo"
   },
+{
+    "name": "The Rock - NZs 1",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KEVINHART_S01AAC.aac",
+    "image": "https://en.wikipedia.org/wiki/The_Rock_(radio_station)#/media/File:The_Rock_Logo.png",
+    "genre": "Rock",
+    "country": "NZ",
+    "city": "Auckland"
+  },
   {
     "name": "102.1 The Edge",
     "url": "https://shoutcast.brownrice.com:8000/stream",
